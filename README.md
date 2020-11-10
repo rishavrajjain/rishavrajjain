@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Copy of Copy of Barber Shop](https://user-images.githubusercontent.com/29782913/98725359-06826f00-23bb-11eb-8323-2e8c83d7b017.png)
+![123](https://user-images.githubusercontent.com/29782913/98737909-eeb3e680-23cc-11eb-9da1-acb5b593ea05.png)
+
 
 
 Here are some ideas to get you started:
