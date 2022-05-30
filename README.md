@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Flutter
-- 🌱 I’m currently learning ... State Management With MobX
+- 🌱 I’m currently learning ... State Management With Provider
 - 👯 I’m looking to collaborate on ... Flutter project
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Email: rishavrajjain@gmail.com
